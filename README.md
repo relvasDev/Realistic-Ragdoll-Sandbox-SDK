@@ -9,4 +9,4 @@ This SDK allows creators to rig humanoid characters, generate ragdoll prefabs, a
 - Basic Unity knowledge
 
 ## Documentation
-➡️ [Start here](docs/index.md)
+➡️ [Start here](docs/00-index.md)
