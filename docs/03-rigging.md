@@ -51,3 +51,5 @@ Export settings
 1. Click Add Motions
 2. Click Export
 3. Select Unity as the platform
+
+[⬅️ Previous](02-character-requirements.md) | [Next ➡️](04-urp-project.md)
