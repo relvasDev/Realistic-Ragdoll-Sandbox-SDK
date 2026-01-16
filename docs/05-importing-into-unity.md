@@ -18,3 +18,5 @@ When importing the character into Unity:
 - Valid avatar (green icon)
 - Correct bone mapping
 - Fingers recognized correctly
+
+[⬅️ Previous](04-urp-project.md) | [Next ➡️](06-installing-the-sdk.md)
