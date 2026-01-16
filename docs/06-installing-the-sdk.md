@@ -18,3 +18,5 @@
 5. In Unity, import the package:
 
     ![ImportSDK](../assets/ImportSDK/ImportSDK5.png)
+
+[⬅️ Previous](05-importing-into-unity.md) | [Next ➡️](07-using-the-sdk.md)
