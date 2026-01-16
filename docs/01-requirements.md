@@ -5,3 +5,5 @@ Before using the Realistic Ragdoll Sandbox SDK, users must have:
 - Project created using URP;
 - Basic knowledge of Unity Editor;
 - Basic knowledge of asset and FBX import The SDK does not support Built-in or HDRP projects.
+
+[⬅️ Previous](00-index.md) | [Next ➡️](02-character-requirements.md)
