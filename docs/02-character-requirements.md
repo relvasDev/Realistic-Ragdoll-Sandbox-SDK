@@ -15,4 +15,4 @@ Only use models that allow use in games and mods. Common sources:
 
 Avoid characters with proportions that are extremely outside the human standard, as this affects the stability of the ragdoll.
 
-[⬅️ Previous](01-requeriments.md) | [Next ➡️](03-rigging.md)
+[⬅️ Previous](01-requirements.md) | [Next ➡️](03-rigging.md)
