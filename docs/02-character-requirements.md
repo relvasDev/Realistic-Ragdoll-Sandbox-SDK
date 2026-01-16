@@ -14,3 +14,5 @@ Only use models that allow use in games and mods. Common sources:
 - All scales must be set to 1.1.1.
 
 Avoid characters with proportions that are extremely outside the human standard, as this affects the stability of the ragdoll.
+
+[⬅️ Previous](01-requeriments.md) | [Next ➡️](03-rigging.md)
