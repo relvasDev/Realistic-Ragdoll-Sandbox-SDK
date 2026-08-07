@@ -4,7 +4,7 @@ Official SDK documentation for creating custom characters for **Realistic Ragdol
 This SDK allows creators to rig humanoid characters, generate ragdoll prefabs, and upload them directly to the Steam Workshop.
 
 ## Requirements
-- Unity 6.000.3.2f1 or newer
+- Requires Unity 6000.3.2f1 – 6000.4.11f1
 - URP project (Built-in and HDRP are not supported)
 - Basic Unity knowledge
 
